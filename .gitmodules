@@ -1,0 +1,12 @@
+[submodule "CT"]
+	path = CT
+	url = ./CT
+[submodule "dt"]
+	path = dt
+	url = ./dt
+[submodule "dense_flow"]
+	path = dense_flow
+	url = ./dense_flow/
+[submodule "caffe_tsn_ros"]
+	path = caffe_tsn_ros
+	url = ./caffe_tsn_ros/
