@@ -1,12 +1,12 @@
 [submodule "CT"]
 	path = CT
-	url = ./CT
+	url = https://github.com/mysablehats/CT.git
 [submodule "dt"]
 	path = dt
-	url = ./dt
+	url = https://github.com/mysablehats/dt.git
 [submodule "dense_flow"]
 	path = dense_flow
-	url = ./dense_flow/
+	url = git@github.com:mysablehats/dense_flow.git
 [submodule "caffe_tsn_ros"]
 	path = caffe_tsn_ros
-	url = ./caffe_tsn_ros/
+	url = git@github.com:mysablehats/caffe_tsn_ros.git
