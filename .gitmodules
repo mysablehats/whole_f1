@@ -7,6 +7,3 @@
 [submodule "dense_flow"]
 	path = dense_flow
 	url = git@github.com:mysablehats/dense_flow.git
-[submodule "caffe_tsn_ros"]
-	path = caffe_tsn_ros
-	url = git@github.com:mysablehats/caffe_tsn_ros.git
