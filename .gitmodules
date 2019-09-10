@@ -7,3 +7,9 @@
 [submodule "dense_flow"]
 	path = dense_flow
 	url = git@github.com:mysablehats/dense_flow.git
+[submodule "Tch"]
+	path = Tch
+	url = git@github.com:mysablehats/Tch
+[submodule "FT"]
+	path = FT
+	url = git@github.com:mysablehats/FT
